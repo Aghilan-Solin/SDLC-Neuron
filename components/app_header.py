@@ -9,7 +9,6 @@ def render_appheader():
     ], style={'display': 'flex', 'justifyContent': 'space-between', 
               'padding': '10px'})
 
-# Function to get the current time in the desired format
 
 
 if __name__ == '__main__':
